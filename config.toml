@@ -1,6 +1,6 @@
-baseURL = "https://fantasticrecipe.vercel.app"
+baseURL = "https://fantasticrecipe.netlify.app"
 languageCode = "en-us"
-title = "Recherche Recette"
+title = "fantastic recipe"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "The place for over 10,000 popular recipes for your complete cooking guide"
   topdescription = "The place for over 10,000 popular recipes for your complete cooking guide"
-  toptitle = "Recherche Recette"
+  toptitle = "fantastic recipe"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://fantasticrecipe.vercel.app"
+    homepage = "https://fantasticrecipe.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
